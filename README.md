@@ -1,4 +1,4 @@
-# QuickMeet: Next-Gen Video Conferencing Solution
+# QuickMeet: Video Conferencing Application
 
 QuickMeet is a robust video conferencing platform, built using the latest technologies to provide a seamless, secure, and feature-rich meeting experience. Whether you're hosting or attending a meeting, QuickMeet offers a full suite of functionalities for effective communication, from recording sessions to managing participants.
 
