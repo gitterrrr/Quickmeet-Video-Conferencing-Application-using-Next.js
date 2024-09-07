@@ -43,4 +43,21 @@ pnpm dev
 bun dev
 ```
 
+## Screenshots
+
+Here are some screenshots of the Quickmeet video conferencing application:
+
+![Login Page](./public/images/ss1.png)
+*Home Page*
+
+![Meeting Controls](./public/images/ss2.png)
+*Meeting Controls*
+
+![Scheduled Meetings](./public/images/ss4.png)
+*Scheduled Meetings*
+
+![Call Latency](./public/images/ss3.png)
+*Call Latency*
+
+
 
