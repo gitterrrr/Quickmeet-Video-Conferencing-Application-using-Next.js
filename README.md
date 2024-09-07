@@ -29,6 +29,14 @@ This project leverages the power of Next.js and TypeScript for optimal performan
 - **Real-time Messaging:** getstream
 - **UI Design:** Tailwind CSS, shadcn
 
+### Cloning the Repository
+
+Clone the repository using the following command:
+
+```bash
+git clone https://github.com/gitterrrr/Quickmeet-Video-Conferencing-Application-using-Next.js.git
+```
+
 ## Getting Started
 
 First, run the development server:
@@ -42,6 +50,11 @@ pnpm dev
 # or
 bun dev
 ```
+## Deployment
+
+The project has been deployed using Vercel and can be accessed through the following URL:
+
+[QuickMeet Deployed Site](https://quickmeet-zeta.vercel.app/)
 
 ## Screenshots
 
@@ -58,6 +71,12 @@ Here are some screenshots of the Quickmeet video conferencing application:
 
 ![Call Latency](./public/images/ss3.png)
 *Call Latency*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 
 
